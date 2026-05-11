@@ -1,4 +1,4 @@
-# 🤖 BackEnd-Ligeirinho
+# 🤖 frontend-ligeirinho
 Projeto desenvolvido em equipe durante a Rio Innovation Week 2025 para o Celeidoscópio do Amanhã - Sesc RJ.
 Atuação principal: desenvolvimento front-end.
 
