@@ -1,5 +1,6 @@
 # 🤖 BackEnd-Ligeirinho
-Um projeto Rio Innovation Week patrocinado pelo Sesc
+Projeto desenvolvido em equipe durante a Rio Innovation Week 2025 para o Celeidoscópio do Amanhã - Sesc RJ.
+Atuação principal: desenvolvimento front-end.
 
 ## 🔍 Visão Geral
 - O **BackEnd-Ligeirinho** é uma iniciativa que une **tecnologia, cultura e história** em uma proposta inovadora patrocinada pelo **SESC RJ**. O projeto apresenta um **robô interativo**, chamado **Ligeirinho**, que atua como um **"Guardião da Memória do Estado do Rio de Janeiro"**.
